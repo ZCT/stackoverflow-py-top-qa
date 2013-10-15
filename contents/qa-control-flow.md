@@ -34,7 +34,7 @@
 
 另外
 
-    (ob1 is ob2) 等价于 (id(ob1) == id(ob2))
+    (ob1 is ob2) 不等价于 (id(ob1) == id(ob2))
 
 
 
